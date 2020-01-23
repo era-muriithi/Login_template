@@ -63,7 +63,7 @@
     border-radius: 50%;
 }
 .input-group{
-    top: 180px;
+    top: 30%;
     position: absolute;
     width: 280px;
     transition: .5s;
